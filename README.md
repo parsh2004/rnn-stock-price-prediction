@@ -84,7 +84,7 @@ plt.show()
 
 
 ### Mean Square Error
-![Screenshot from 2022-10-13 17-23-38](12.png)
+![Screenshot from 2022-10-13 17-23-38](13.png)
 
 
 ## RESULT
