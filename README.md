@@ -80,11 +80,11 @@ plt.show()
 
 ### True Stock Price, Predicted Stock Price vs time
 
-![index](https://user-images.githubusercontent.com/75235212/195588710-2e14c16a-d26f-44ca-88d8-12f863017c89.png)
+![index](11.png)
 
 
 ### Mean Square Error
-![Screenshot from 2022-10-13 17-23-38](https://user-images.githubusercontent.com/75235212/195588754-811c5b74-232b-4f7f-a766-60884a869cb3.png)
+![Screenshot from 2022-10-13 17-23-38](12.png)
 
 
 ## RESULT
